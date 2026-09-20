@@ -1,7 +1,11 @@
-<!-- Banner / Header visual (opcional: puedes cambiar la URL por una imagen tuya o un banner creado en Canva/Excalidraw) -->
+<!-- Banner / Header visual -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Christian%20Garay&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20OCI%20Certified%20%7C%20AI%20%26%20RAG&fontSize=50&fontColor=ffffff&descSize=20&descAlignY=60&descAlign=53&animation=twinkling" alt="Christian Garay - Backend Developer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1117&amp;height=180&amp;section=header&amp;text=Christian%20Garay&amp;desc=Backend%20Developer%20|%20Java%20and%20Spring%20Boot%20|%20OCI%20Certified&amp;fontSize=50&amp;fontColor=ffffff&amp;descSize=20&amp;descAlignY=75&amp;descAlign=53&amp;animation=twinkling"
+    alt="Christian Garay - Backend Developer"
+  />
 </p>
+
 
 <p align="center">
   <b>Backend Developer Jr</b> · Java & Spring Boot · Oracle Cloud Infrastructure Certified · AI Integrations (Gemini / Mistral) · MySQL · PostgreSQL
