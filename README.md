@@ -72,8 +72,6 @@ Me gusta construir soluciones robustas, bien documentadas y listas para producci
 - **[Vacunar-te | Inmunización Inteligente Potenciada con Mistral AI](https://github.com/cris959/vacunar_te)**  
   Aplicación Full-Stack Monolítica con API REST de Spring Boot, Thymeleaf, Autenticación JWT, documentación OpenAPI, Mysql DB, integracion con Mistral. 
 
-*(Edita los títulos, descripciones y enlaces según tus repos reales.)*
-
 ---
 
 ## 📈 Actividad en GitHub
