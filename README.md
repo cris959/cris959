@@ -1,7 +1,7 @@
 <!-- Banner / Header visual -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1117&amp;height=180&amp;section=header&amp;text=Christian%20Garay&amp;desc=Backend%20Developer%20|%20Java%20and%20Spring%20Boot%20|%20OCI%20Certified&amp;fontSize=50&amp;fontColor=ffffff&amp;descSize=20&amp;descAlignY=75&amp;descAlign=53&amp;animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1117,5B21B6,7C3AED&amp;height=180&amp;section=header&amp;text=Christian%20Garay&amp;desc=Backend%20Developer%20|%20Java%20and%20Spring%20Boot%20|%20OCI%20Certified&amp;fontSize=50&amp;fontColor=ffffff&amp;descSize=20&amp;descAlignY=65&amp;descAlign=53&amp;animation=twinkling"
     alt="Christian Garay - Backend Developer"
   />
 </p>
