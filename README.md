@@ -78,15 +78,6 @@ Me gusta construir soluciones robustas, bien documentadas y listas para producci
 
 ---
 
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cris959&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Métricas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris959&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-</p>
-
----
-
 <div align="center">
   <sub>
     <i>Proyectos actuales: ⚡ <b>InsightEdu Lab</b> (Sistema multi-agente con LangGraph)</i>
